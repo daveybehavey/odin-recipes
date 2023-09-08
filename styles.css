@@ -1,8 +1,64 @@
 p {
-    font-size: 18px
+    font-size: 24px;
+    padding-bottom: 50px;
 }
 ol li{
 font-size: 20px;
-padding-bottom: 20px;
+padding-bottom: 25px;
+}
+ul li {
+    font-size: 25px;
+}
+html {
+    background-image: linear-gradient(225deg, #FBBF77, orange)
+}
+
+img {
+    width: 720px;
+    height: 360px;
+    display: block;
+    margin: 0 auto;
+}
+.page-title {
+    text-align: center;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1260cc;
+    text-decoration-line: underline;
+}
+.recipes a {
+    text-decoration: none;
+    color: #1288ff;
+    font-family: cursive, sans-serif;
+    font-weight: 600;
+}
+.recipes li {
+    padding-bottom: 50px;
+    padding-top: 100px;
+}
+.recipes {
+display: block;
 text-align: center;
+list-style: none;
+
+}
+h2 {
+    color: #1260cc;
+}
+ul {
+    padding-bottom: 50px;
+}
+.link {
+    text-decoration: none;
+    color: rgb(256, 80, 80)
+}
+.back {
+    font-size: 32px;
+    display: block;
+    text-align: center;
+    padding-bottom: 25px;
+    text-decoration: none;
+   color: #1260cc;
+    font-weight: bold;
+    font-family: sans-serif;
 }
